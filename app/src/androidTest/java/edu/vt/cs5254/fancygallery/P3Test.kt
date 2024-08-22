@@ -195,6 +195,7 @@ class P3Test {
         waitFor(withId(R.id.map_view), withEffectiveVisibility(Visibility.VISIBLE))
         onView(withId(R.id.photo_grid)).check(doesNotExist())
         onView(withId(R.id.web_view)).check(doesNotExist())
+//        Thread.sleep(2000)
 
         waitFor(withId(R.id.map_view), loadingIsComplete())
         onView(withId(R.id.gallery_fragment)).perform(click())
@@ -221,6 +222,7 @@ class P3Test {
     fun mapLoadsMinimumMarkers() {
         galleryFirstImageLoaded()
         mapLoadsAllTiles()
+//        Thread.sleep(2000)
         waitFor(withId(R.id.map_view), loadedMarkerCountMinimum())
     }
 
