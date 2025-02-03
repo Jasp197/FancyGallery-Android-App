@@ -23,8 +23,8 @@ Fancy Gallery offers a blend of powerful features and a user-friendly interface 
 ## How It Looks
 
 <p>
-  <img src="assets/gallery-1.png" width="300" style="margin-right: 20px;">
-  <img src="assets/gallery-2.png" width="300">
+  <img src="assets/gallery-1.png" width="250" style="margin-right: 100px;">
+  <img src="assets/gallery-2.png" width="250">
 </p>
 
-<img src="assets/gallery-3.png" width="300">
+<img src="assets/gallery-3.png" width="250">
