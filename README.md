@@ -25,8 +25,6 @@ Fancy Gallery offers a blend of powerful features and a user-friendly interface 
 <div style="display: flex;">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/gallery-1.png" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/gallery-2.png" width="250">
+  <img src="assets/gallery-2.png" width="250"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/gallery-3.png" width="250">
 </div>
-
-
-<img src="assets/gallery-3.png" width="250">
